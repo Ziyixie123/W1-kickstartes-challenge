@@ -15,13 +15,15 @@ On the other hand, successful outcome of theater concentrate in the May and June
 
 
 ### Analysis of Outcomes Based on Goals
+From the graph, the line of successful have peak (high percentage of success) on less than 1000,  around 35000 to 45000 or about more than 50000.
+On the other hand, the line of failed is opposite as successful line with peaks in goal of 30000, 45000 to 50000.
 A theater with the goal of less than 1000, around 35000 to 45000 or about more than 50000, has the biggest chance to be successful
 At the same time. theaters with the goal of around 30000, 45000 to 50000 have the highest chance to failed 
 Theaters projects are unlikely to be canceled 
 
 ### Challenges and Difficulties Encountered
 
-I spent more time than I thought on the pivot table 
+I spent more time than I thought on the pivot table because it was difficult to know which features should go to row, value, or column. By practicing and playing around, I figured out the best way is to try a different combination and pick the one best suit for visualization
 
 ## Results
 
@@ -34,7 +36,7 @@ I spent more time than I thought on the pivot table
 A theater with the goal of less than 1000, around 35000 to 45000 or around more than 50000, has the biggest chance to be successful
 
 - What are some limitations of this dataset?
-you can find out the relations, but you cannot find out the causation between two data sets 
+In summary, we do understand that the goal and launch time can affect projects'success rate. The issue is that you can find out the relations, but you cannot find out the causation between two data sets 
 
 - What are some other possible tables and/or graphs that we could create?
 tables: outcome_and_country, outcomes, and pledges 
